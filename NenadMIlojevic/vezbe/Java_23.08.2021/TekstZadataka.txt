@@ -1,0 +1,26 @@
+Zadaci sa časa 23.08.2021.
+1. f-ja   konkatenacija strings
+2. f-ja  Kvadrat
+3. F-ja  :  Povrsina kvadrata
+4. F-ja  :  Obim kvadrata
+5. F-ja  :  Povrsina pravougaonika
+6. F-ja  :  Obim pravougaonika
+
+Domaći 23.08.2021.
+Funkcije1: Napisati program koji ce procitati 3 cela broja sa standardnog ulaza (znaci da korisnik unosi tri broja) i taj program treba da pozove i ispise (u mainu) najmanji od ta tri unesena broja.
+Funkcije2: Napisati program koji ce procitati 3 cela broja sa standardnog ulaza i taj program treba da pozove i vrati (u mainu) proizvod unetih brojeva.
+Dodatni
+Funkcije3: -> spojena prva dva zadatka sa malo izmenjenim zahtevima -> Napisati program koji ce procitati 3 cela broja sa standardnog ulaza i poziva i ispisuje dve metode. Prva ispisuje zbir tri unesena broja, a druga vraca najveci od unetih brojeva
+.Da li u nasoj klasi mozemo da imamo sledece funkcije i zasto?
+public static void vrati() {
+	System.out.println(“Vrati mi olovku”);
+}
+
+
+public static String vrati() {
+	return “Vrati mi svesku”;
+}
+
+
+
+

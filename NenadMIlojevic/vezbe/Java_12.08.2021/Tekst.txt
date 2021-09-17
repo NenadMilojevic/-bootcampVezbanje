@@ -1,0 +1,19 @@
+Zadaci sa časa 12.08.2021.
+1. Izracunati povrsinu i obim kvadrata (na osnovu unete stranice a)
+    Izracunati povrsinu i obim pravougaonika (na osnovu unete stranice a i b) 
+2. Izracunati povrsinu i obim kruga
+Unestite svoje ime:  Petar
+Unestite svoje prezime:   Petrovic
+Unesite poluprecnik kruznice: 3
+Rezultati za: Petra Petrovica su
+     Obim kruga je:  2*3*3.14
+     Povrsina kruga je:  3*3*3.14
+
+Domaći 12.08.2021
+Napisati program gde deklarisete vase ime, prezime kao string,
+ pol kao char i odstampajte adekvatno sva tri unosa. 
+Nakon toga preko skenera treba da unesete ukupan broj medalja
+ koliko je Srbija osvojila na olimpijskim igrama i
+ ukupan broj zlatnih medalja koliko je Srbija osvojila na olimpijskim igrama,
+ na kraju treba odstampati procenat zlatnih medalja u odnosu na ukupan
+ broj medalja. 

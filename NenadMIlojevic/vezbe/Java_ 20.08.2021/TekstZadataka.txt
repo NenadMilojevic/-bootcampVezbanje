@@ -1,0 +1,16 @@
+Zadaci sa časa 20.08.2021.
+
+1. Napraviti meni 
+1. Pivo
+2. Vinjak
+3. Koktel
+
+Nakon odabira pica, sledi pitanje za kolicinu
+Kad korisnik upise kolicinu, ispisite ukupnu cenu
+(cene artikala stavite kao promenljive u programu i dodelite im neke vrednosti) 
+
+Domaci 20.08.2021.
+
+1. Napisati program gde u nizu napisete 5 gradova, a program vam odstampa sve osim prvog i poslednjeg unosa.
+2. Napisati program gde u nizu napisete ovih 5 gradova (Lisabon, London, Helsinki, Prag i Madrid), a program stampa gradove sve dok ne dodje do "Prag"-a.
+Dva zadatka koje mozete pisati u istoj klasi ako zelite, kratki su zadaci, ali bitno je samo da se napise preko niza. 

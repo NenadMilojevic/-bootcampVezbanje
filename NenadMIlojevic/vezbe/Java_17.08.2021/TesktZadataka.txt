@@ -1,0 +1,37 @@
+Zadaci sa časa 17.08.2021.
+
+1. Napraviti program koji omogucava unos proizvoljnog broja.
+Nakon unosa ispisati sve parne brojeve od 0 do vrednosti unetog broja.
+
+2. Ispisati na ekran, koristeci do while petlju (zadnji red 10 zvezdica)
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+3. Napraviti program koji od korisnika zahteva da unese dva broja koja ce sabrati
+i ispisati rezultat korisniku. Takodje nakon ispisa rezultata ponuditi korisniku da ponovi
+unos sa novim brojevima ili da izadje iz aplikacije. 
+
+4. Napraviti program za koji ce moci da unosimo brojeve pojedinacno. A nakon svakog unosa proracunamo i
+ispisemo zbir dotad unetih vrednosti. Algoritam treba da radi za unos do 5 brojeva ili ako se dostigne suma preko 50.
+
+Domaći 17.08.2021.
+Napisati program koji oponasa kviz za pogadjanje glavnog grada.
+ Program treba da ispisuje 3 opcije za izbor drzave + 1 opciju kao izlaz iz programa.
+    1. Francuska
+    2. Italija
+    3. Srbija
+    4. Izlaz- Nakon odabira drzave, potrebno je postaviti pitanje 'Koji je glavni grad drzave xxxxxxx ?'
+- Ako korisnik odgovori tacno, ispisuje se poruka 'Odgovor je tacan'
+- Ako korisnik odgovori netacno, ispisuje se poruka 'Odgovor nije tacan'
+- Nakon davanja odgovora (bilo da je tacan ili netacan), ponovo treba da se postave
+sve pocetne opcije i ponudi korisniku da odabere neku od njih.
+- Program se zavrsava kad korisni odabere 4. opciju 'Izlaz'
+- Program uraditi koriscenjem dosad naucenog + do-while petlje

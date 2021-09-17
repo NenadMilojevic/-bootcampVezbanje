@@ -1,0 +1,46 @@
+Zadaci sa časa 19.08.2021.
+1. Izracunati sumu prvih n brojeva
+2. Koristeci dve for petlje nacrtati
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+3. Koristeci dve for petlje nacrtati
+
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+Domaci 19.08.2021.
+1. Napisati program gde korisnik unosi pozitivne brojeve, kad unese negativan broj prikaze mu se suma svih prethodno unetih brojeva i na kraju zakomentarisati koje ste brojeve sve unosili po testu
+na primer:
+//test 1 x, y, z
+//test 2 x, y, z
+//test 3 x, y, z
+(Koristiti do while petlju)
+
+2. Napisati program koji ce imati infinite loop i stampati "Hello world!"
+(Koristiti while petlju)
+
+3. Napisati program koji stampa sliku na ekranu za N redova. N unosi korisnik preko skenera.
+(Koristiti for petlju)
+Na primer N: 5
+*
+**
+***
+****
+*****
+

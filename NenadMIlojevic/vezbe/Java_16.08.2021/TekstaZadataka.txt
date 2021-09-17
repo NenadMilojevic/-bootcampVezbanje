@@ -1,0 +1,37 @@
+Zadaci sa časa 16.08.2021.
+
+1. Napraviti program sa while petljom koja ispisuje
+    'Da li zelite da izadjete iz petlje [d/n]: '
+     d-da, n -ne
+     Ukoliko izaberemo d, tj. 'da', tada izlazimo iz petlje
+     Ukoliko izaberemo n, tj. 'ne', tada ostajemo u petlji i ponavljamo pitanje
+
+2. Ispisi sve parne brojeve do 100.
+
+3. Ispisi sve neparne brojeve do 100 koji su deljivi sa 3.
+
+4. Nadji zbir svih brojeva izmedju dva proizvoljna uneta broja
+
+5. Naci sumu parnih i sumu neparnih brojeva izmedju dva proizvoljno uneta broja
+
+Domaći 16.08.2021.
+
+    1. Uociti gresku u kodu, ne prebacujuci kod u Eclipse. Ispravljen kod predati kao Zadatak1 u zajednickom chatu.
+public class Krug {
+   public static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+       double r;
+       r=sc.nextDouble();
+       if(r>0){
+           System.out.println(r*r*3.14);
+       else{
+               System.out.println("Greska u unosu!");
+           }
+       }
+   }
+}
+2. While1:Napisati program koji unosi i sabira brojeve dokle god nije unesen negativan broj, i ispisuje njihov zbir (zbir pozitivnih brojeva).
+primer: ako korisnik unese 1 2 5 3 -1,  program treba da ispise 11
+
+3. While2: Napisati program koji ce na standardnom izlazu ispisati poruku “Laku noc!” onoliko puta koliko je korisnik zadao preko konzole.
+Primer: ako korisnik unese broj 20, poruku Laku noc! treba ispisati 20 puta
