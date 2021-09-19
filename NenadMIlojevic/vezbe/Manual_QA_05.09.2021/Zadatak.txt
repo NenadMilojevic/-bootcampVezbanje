@@ -1,0 +1,2 @@
+    1. Napisati 5 test kejseva za aplikaciju na zadatoj slici
+    2. Napisati 3 bug reporta za bilo koju aplikaciju (svojevoljno trazit0e bagove gde god)
